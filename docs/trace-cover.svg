@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">TRACE — Every payment has a decision</title>
+  <desc id="desc">Nordic enterprise UX cover with a stylized payment investigation panel, designed in navy, cream, and signal teal.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FAF8"/><stop offset="1" stop-color="#EAF3F0"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#234955"/><stop offset="1" stop-color="#17333F"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-40%" width="160%" height="180%"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#17333F" flood-opacity=".12"/></filter>
+  </defs>
+  <rect width="1280" height="440" rx="18" fill="url(#surface)"/>
+  <g fill="none" stroke="#17333F" stroke-opacity=".06"><path d="M0 82H1280M0 164H1280M0 246H1280M0 328H1280M100 0V440M220 0V440M340 0V440M460 0V440M580 0V440M700 0V440M820 0V440M940 0V440M1060 0V440M1180 0V440"/></g>
+  <rect x="56" y="48" width="39" height="39" rx="11" fill="#17333F"/><path d="M68 61H83M75.5 61V77" stroke="#84C9BD" stroke-width="4" stroke-linecap="round"/><text x="109" y="78" fill="#17333F" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-1">TRACE<tspan fill="#328E84">.</tspan></text>
+  <circle cx="64" cy="137" r="5" fill="#328E84"/><text x="79" y="143" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2.4" fill="#6F8B87">INDEPENDENT ENTERPRISE UX CONCEPT</text>
+  <text x="56" y="230" font-family="Georgia,'Times New Roman',serif" font-size="61" fill="#17333F" letter-spacing="-1.8">Every payment</text>
+  <text x="56" y="300" font-family="Georgia,'Times New Roman',serif" font-size="61" font-style="italic" fill="#328E84" letter-spacing="-1.8">has a decision.</text>
+  <text x="59" y="352" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#5E7778">Evidence-led investigation. Independent review.</text>
+  <text x="59" y="379" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#5E7778">Decisions you can trace.</text>
+  <g filter="url(#shadow)">
+    <rect x="745" y="67" width="492" height="315" rx="22" fill="#FFFFFF" stroke="#D9E6E2"/>
+    <path d="M768 67H822V382H768Q745 382 745 359V90Q745 67 768 67Z" fill="url(#panel)"/>
+    <circle cx="784" cy="102" r="16" fill="#37656D"/><path d="M777 102H791M784 95V109" stroke="#ACDBD3" stroke-width="2" stroke-linecap="round"/>
+    <rect x="767" y="151" width="32" height="29" rx="7" fill="#37656D"/><path d="M775 160H791M775 166H791M775 172H786" stroke="#C8E6E1" stroke-width="2"/>
+    <rect x="767" y="191" width="32" height="29" rx="7" fill="#294E58"/><path d="M775 199H791M775 205H786" stroke="#9FCAC4" stroke-width="2"/>
+    <rect x="767" y="231" width="32" height="29" rx="7" fill="#294E58"/><circle cx="783" cy="246" r="7" stroke="#9FCAC4" stroke-width="2"/><path d="M783 242V246L787 248" stroke="#9FCAC4" stroke-width="2"/>
+    <text x="850" y="105" fill="#819796" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.2">PAYMENT EXCEPTIONS / INVESTIGATION</text>
+    <rect x="851" y="125" width="345" height="214" rx="13" fill="#F8FBF9" stroke="#E3ECE9"/>
+    <circle cx="876" cy="151" r="11" fill="#FBE8E2"/><path d="M876 144L883 157H869Z" fill="none" stroke="#C8665E" stroke-width="2" stroke-linejoin="round"/>
+    <text x="898" y="155" fill="#17333F" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Possible duplicate</text>
+    <rect x="1092" y="139" width="84" height="25" rx="12" fill="#FBE8E2"/><text x="1134" y="156" fill="#A1534C" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700">CRITICAL</text>
+    <text x="869" y="202" fill="#718A89" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.6">PAYMENT AMOUNT</text>
+    <text x="869" y="237" fill="#17333F" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">€18,450.00</text>
+    <path d="M868 255H1178" stroke="#DFE9E6"/>
+    <circle cx="879" cy="284" r="9" fill="#E1F0EB"/><path d="M875 284L878 287L884 280" fill="none" stroke="#328E84" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="897" y="288" fill="#44636A" font-family="Arial,Helvetica,sans-serif" font-size="13">Evidence available</text>
+    <rect x="1057" y="271" width="121" height="37" rx="9" fill="#1A777C"/><text x="1117.5" y="294" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">Investigate →</text>
+  </g>
+  <text x="1198" y="414" fill="#64807E" font-family="Arial,Helvetica,sans-serif" font-size="11" text-anchor="end" letter-spacing="1.5">SABNAM PARIYAR · 2026</text>
+</svg>
